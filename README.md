@@ -2,4 +2,5 @@
 
 📫 Want to talk with me? Hit me up in my socials below
 
- ✉️: https://x.com/Roman4404
+ ✉️: **https://x.com/Roman4404**
+ 

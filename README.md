@@ -1,6 +1,24 @@
-## Hi there 👋
+<h1 align="">🦖 Roman4404 / Open source coder </h1>
 
-📫 Want to talk with me? Hit me up in my socials below.
+###
 
- ✉️: **https://x.com/Roman4404**
- 
+<div align="">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+<img src="https://skillicons.dev/icons?i=html" height="40" alt="html"  />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sqlite"  />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn"  />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+</div>
+
+## 📫 Want to talk with me? Hit me up in my socials below.
+
+✉️: **https://x.com/Roman4404**
+
+VK: **https://vk.com/roman4404**

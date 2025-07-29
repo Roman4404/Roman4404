@@ -19,6 +19,6 @@
 
 ## 📫 Want to talk with me? Hit me up in my socials below.
 
-✉️: **https://x.com/Roman4404**
+VK(Recommended): **https://vk.com/roman4404**
 
-VK: **https://vk.com/roman4404**
+X: **https://x.com/Roman4404**

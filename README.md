@@ -15,8 +15,8 @@
   <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn"  />
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
 
+[![codewars](https://www.codewars.com/users/R4404/badges/large)](https://www.codewars.com/users/R4404/)   
 ## 📫 Want to talk with me? Hit me up in my socials below.
 
 VK(Recommended): **https://vk.com/roman4404**

@@ -22,5 +22,3 @@
 VK(Recommended): **https://vk.com/roman4404**
 
 X: **https://x.com/Roman4404**
-
-My email:**LOL.burger@outlook.com**

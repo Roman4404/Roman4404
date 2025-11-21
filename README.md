@@ -9,7 +9,6 @@
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot"  />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask"  />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sqlite"  />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn"  />

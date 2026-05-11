@@ -12,12 +12,22 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sqlite"  />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="sklearn"  />
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
-## 📫 Want to talk with me? Hit me up in my socials below.
+# My projects
+
+<div align="center">
+  <img alt="downloader_icon" src="title_bbartender.png" style="border-radius: 20px;">
+</div>
+
+## BBartender — A game where you are a novice bartender in a small bar.
+
+[![Available in RuStore](https://img.shields.io/badge/Available%20in-RuStore-blue?style=for-the-badge&logo=android)](https://www.rustore.ru/catalog/app/com.troind_box.bbartender)
+
+
+# 📫 Want to talk with me? Hit me up in my socials below.
 
 ✉️: **https://x.com/Roman4404**
 

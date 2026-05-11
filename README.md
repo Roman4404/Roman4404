@@ -17,7 +17,7 @@
 
 ## My projects
 
-<big>BBartender — A game where you are a novice bartender in a small bar.</big>
+BBartender — A game where you are a novice bartender in a small bar.
 
 [![Available in RuStore](https://img.shields.io/badge/Available%20in-RuStore-blue?style=for-the-badge&logo=android)](https://www.rustore.ru/catalog/app/com.troind_box.bbartender)
 

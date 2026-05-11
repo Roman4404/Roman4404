@@ -9,12 +9,11 @@
   <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot"  />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask"  />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sqlite"  />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
+
 
 # My projects
 
@@ -29,6 +28,6 @@
 
 # 📫 Want to talk with me? Hit me up in my socials below.
 
-✉️: **https://x.com/Roman4404**
+VK(Recommended): **https://vk.com/roman4404**
 
-VK: **https://vk.com/roman4404**
+X: **https://x.com/Roman4404**

@@ -17,10 +17,13 @@
 
 ## My projects
 
-BBartender — A game where you are a novice bartender in a small bar.
+* BBartender — A game where you are a novice bartender in a small bar.
 
 [![Available in RuStore](https://img.shields.io/badge/Available%20in-RuStore-blue?style=for-the-badge&logo=android)](https://www.rustore.ru/catalog/app/com.troind_box.bbartender)
 
+* SPanel
+
+[![Available in Github](https://img.shields.io/badge/Available%20in-Github-white?style=for-the-badge&logo=github)](https://github.com/Roman4404/spanel)
 
 ## 📫 Want to talk with me? Hit me up in my socials below.
 

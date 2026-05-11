@@ -15,18 +15,14 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 
 
-# My projects
+## My projects
 
-<div align="center">
-  <img alt="downloader_icon" src="title_bbartender.png" style="border-radius: 20px;">
-</div>
-
-## BBartender — A game where you are a novice bartender in a small bar.
+<big>BBartender — A game where you are a novice bartender in a small bar.</big>
 
 [![Available in RuStore](https://img.shields.io/badge/Available%20in-RuStore-blue?style=for-the-badge&logo=android)](https://www.rustore.ru/catalog/app/com.troind_box.bbartender)
 
 
-# 📫 Want to talk with me? Hit me up in my socials below.
+## 📫 Want to talk with me? Hit me up in my socials below.
 
 VK(Recommended): **https://vk.com/roman4404**
 

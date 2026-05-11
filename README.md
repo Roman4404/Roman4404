@@ -21,7 +21,7 @@
 
 [![Available in RuStore](https://img.shields.io/badge/Available%20in-RuStore-blue?style=for-the-badge&logo=android)](https://www.rustore.ru/catalog/app/com.troind_box.bbartender)
 
-* SPanel
+* SPanel is an open-source application that allows you to play audio in voice chats (using digital conversion) through your microphone.
 
 [![Available in Github](https://img.shields.io/badge/Available%20in-Github-white?style=for-the-badge&logo=github)](https://github.com/Roman4404/spanel)
 

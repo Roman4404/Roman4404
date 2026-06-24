@@ -20,6 +20,7 @@
 * BBartender — A game where you are a novice bartender in a small bar.
 
 [![Available in RuStore](https://img.shields.io/badge/Available%20in-RuStore-blue?style=for-the-badge&logo=android)](https://www.rustore.ru/catalog/app/com.troind_box.bbartender)
+[![Играть на Яндекс Играх](https://img.shields.io/badge/Play-Yandex_Games-FFCC00?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)](https://yandex.ru/games/app/bbartender-501685?lang=ru)
 
 * SPanel - An open-source application that allows you to play audio in voice chats (using digital conversion) through your microphone.
 
